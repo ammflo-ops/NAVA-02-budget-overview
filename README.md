@@ -18,7 +18,7 @@ Monitor budget execution, identify spending variances and evaluate financial per
 The dashboard provides an interactive view of budget performance through financial KPIs and variance analysis.
 
 <p align="center">
-  <img src="dashboard/budget_performance_dashboard.png" width="900">
+  <img src="dashboard/budget_overview_dashboard.png" width="900">
 </p>
 
 Explore the interactive dashboard on Tableau Public:  
