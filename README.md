@@ -21,7 +21,7 @@ The dashboard provides an interactive view of budget performance through financi
   <img src="dashboard/budget_overview_dashboard.png" width="900">
 </p>
 
-Explore the interactive dashboard on Tableau Public: [**View Dashboard**](https://public.tableau.com/app/profile/florence.ammany/viz/Portfolio_Project_II_Budget/BudgetDB)
+Explore the interactive dashboard on Tableau Public : [**View Dashboard**](https://public.tableau.com/app/profile/florence.ammany/viz/Portfolio_Project_II_Budget/BudgetDB)
 
 ### Key Performance Indicators
 
