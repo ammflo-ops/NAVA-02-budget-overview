@@ -3,7 +3,7 @@
 
 This repository contains the **Budget Performance** analytical module of the [**NAVA Business Intelligence Portfolio**](https://github.com/ammflo-ops/NAVA-Business-Intelligence-Portfolio/blob/main/README.md).
 
-Powered by a shared [SQL architecture](https://github.com/ammflo-ops/NAVA-00-Technical-Foundation/blob/main/README.md), it compares budgeted and actual performance across departments and countries, enabling stakeholders to monitor financial execution, identify variances and support better resource allocation.
+Powered by a shared [SQL architecture](https://github.com/ammflo-ops/NAVA-00-Technical-Foundation/blob/main/README.md), it compares budgeted and actual performance across departments and countries, enabling monitor financial execution, identify variances and support better resource allocation.
 
 ---
 
@@ -21,8 +21,7 @@ The dashboard provides an interactive view of budget performance through financi
   <img src="dashboard/budget_overview_dashboard.png" width="900">
 </p>
 
-Explore the interactive dashboard on Tableau Public:  
-[**View Dashboard**](https://YOUR_TABLEAU_PUBLIC_LINK)
+Explore the interactive dashboard on Tableau Public: [**View Dashboard**](https://public.tableau.com/app/profile/florence.ammany/viz/Portfolio_Project_II_Budget/BudgetDB)
 
 ### Key Performance Indicators
 
@@ -46,7 +45,7 @@ Explore the interactive dashboard on Tableau Public:
 ## Summary of Insights
 
 - Budget execution remained under control across most departments.
-- Several cost categories exceeded their allocated budgets.
+- Budget overruns were concentrated in a limited number of cost areas. 
 - Operational spending increased faster than planned in selected business areas.
 - Budget utilization varied significantly across countries.
 
