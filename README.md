@@ -44,17 +44,17 @@ Explore the interactive dashboard on Tableau Public : [**View Dashboard**](https
 
 ## Summary of Insights
 
-- Budget execution remained under control across most departments.
-- Budget overruns were concentrated in a limited number of cost areas. 
-- Operational spending increased faster than planned in selected business areas.
-- Budget utilization varied significantly across countries.
+- Budget execution remained closely aligned with the annual plan.
+- Marketing and Logistics generated the largest budget overruns.
+- Paid Search, Paid Social and Shipping drove most spending variances.
+- Spain recorded the highest budget variance.
 
 ## Recommendations & Next Steps
 
-- Investigate recurring budget overruns by department.
-- Strengthen monitoring of high-growth cost categories.
-- Improve forecasting accuracy for operational expenses.
-- Reallocate resources towards higher-value business activities.
+- Strengthen cost control in Marketing and Logistics.
+- Optimize spending in Paid Search, Paid Social and Shipping.
+- nvestigate the operational drivers behind Spain's budget variance.
+- mprove forecasting accuracy for high-impact cost categories.
 
 ---
 
