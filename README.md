@@ -1,4 +1,4 @@
-# 02 Budget Performance
+# 02 Budget Overview
 > <i>Budget Monitoring & Variance Analysis</i>
 
 This repository contains the **Budget Performance** analytical module of the [**NAVA Business Intelligence Portfolio**](https://github.com/ammflo-ops/NAVA-Business-Intelligence-Portfolio/blob/main/README.md).
